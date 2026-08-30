@@ -21,6 +21,8 @@ Egon L. Willighagen&nbsp;<a href="https://orcid.org/0000-0001-7542-0286"><img al
 
 © 2021-2026 The Authors
 
+[![DOI](https://zenodo.org/badge/1228057668.svg)](https://doi.org/10.5281/zenodo.22179834)
+
 License: CC-BY-SA 4.0 International
 
 This book is written in Markdown with additional instructions that are preprocessed.
