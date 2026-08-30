@@ -15,28 +15,29 @@ Here is an alphabetically sorted list of graphical interfaces to various SPARQL 
 * Integrated Database of Small Molecules (IDSM): [https://idsm.elixir-czech.cz/chemweb/](https://idsm.elixir-czech.cz/chemweb/) [<a href="#citeref8">8</a>]
 * LIPID MAPS: [https://lipidmaps.org/sparql](https://lipidmaps.org/sparql) [<a href="#citeref9">9</a>]
 * MetaNetX: [https://rdf.metanetx.org/](https://rdf.metanetx.org/) [<a href="#citeref10">10</a>]
+* MolMeDB: [https://idsm.elixir-czech.cz/sparql/endpoint/molmedb](https://idsm.elixir-czech.cz/sparql/endpoint/molmedb) [<a href="#citeref11">11</a>]
 * OMA: [https://sparql.omabrowser.org/](https://sparql.omabrowser.org/) [<a href="#citeref7">7</a>]
 * OrthoDB: [https://sparql.orthodb.org/](https://sparql.orthodb.org/) [<a href="#citeref7">7</a>]
-* neXtProt: [https://snorql.nextprot.org/](https://snorql.nextprot.org/) [<a href="#citeref11">11</a>]
+* neXtProt: [https://snorql.nextprot.org/](https://snorql.nextprot.org/) [<a href="#citeref12">12</a>]
 * Rhea: [https://sparql.rhea-db.org/sparql](https://sparql.rhea-db.org/sparql) [<a href="#citeref3">3</a>]
 * SIBiLS: [https://www.expasy.org/resources/sibils-sparql-endpoint](https://www.expasy.org/resources/sibils-sparql-endpoint)
 * STRING: [https://sparql.string-db.org/](https://sparql.string-db.org/) [<a href="#citeref7">7</a>]
 * SwissLipids: [https://beta.sparql.swisslipids.org/](https://beta.sparql.swisslipids.org/) [<a href="#citeref7">7</a>]
-* UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<a href="#citeref12">12</a>] (see also [this chapter](uniprot.md))
-* Wikidata: [https://query.wikidata.org/](https://query.wikidata.org/) [<a href="#citeref13">13</a>] (see also [this chapter](wikidata.md))
-* WikiPathways: [https://sparql.wikipathways.org/](https://sparql.wikipathways.org/) [<a href="#citeref14">14</a>,<a href="#citeref15">15</a>] (see also [this chapter](wikipathways.md))
+* UniProt: [https://sparql.uniprot.org/](https://sparql.uniprot.org/) [<a href="#citeref13">13</a>] (see also [this chapter](uniprot.md))
+* Wikidata: [https://query.wikidata.org/](https://query.wikidata.org/) [<a href="#citeref14">14</a>] (see also [this chapter](wikidata.md))
+* WikiPathways: [https://sparql.wikipathways.org/](https://sparql.wikipathways.org/) [<a href="#citeref15">15</a>,<a href="#citeref16">16</a>] (see also [this chapter](wikipathways.md))
 
 ## Other useful resources
 
 There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
 
-* Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql) [<a href="#citeref16">16</a>]
-* Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<a href="#citeref17">17</a>]
+* Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql) [<a href="#citeref17">17</a>]
+* Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<a href="#citeref18">18</a>]
 
 ## Literature data
 
 * dblp.org: [https://sparql.dblp.org/](https://sparql.dblp.org/)
-* Wikidata (Qlever): [https://qlever.dev/api/wikidata](https://qlever.dev/api/wikidata) [<a href="#citeref18">18</a>] (see also [this chapter](wikidata.md))
+* Wikidata (Qlever): [https://qlever.dev/api/wikidata](https://qlever.dev/api/wikidata) [<a href="#citeref19">19</a>] (see also [this chapter](wikidata.md))
   
 ## References
 
@@ -50,12 +51,13 @@ There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
 8. <a name="citeref8"></a> Galgonek J, Vondrášek J. IDSM ChemWebRDF: SPARQLing small-molecule datasets. J Cheminform. 2021 May 12;13(1).  doi:[10.1186/S13321-021-00515-1](https://doi.org/10.1186/S13321-021-00515-1) ([Scholia](https://qlever.scholia.wiki/doi/10.1186/S13321-021-00515-1))
 9. <a name="citeref9"></a> Conroy MJ, Andrews RM, Andrews S, Cockayne L, Dennis EA, Fahy E, et al. LIPID MAPS: update to databases and tools for the lipidomics community. NAR. 2023 Oct 19;  doi:[10.1093/NAR/GKAD896](https://doi.org/10.1093/NAR/GKAD896) ([Scholia](https://qlever.scholia.wiki/doi/10.1093/NAR/GKAD896))
 10. <a name="citeref10"></a> Ganter M, Bernard T, Moretti S, Stelling J, Pagni M. MetaNetX.org: a website and repository for accessing, analysing and manipulating metabolic networks. Bioinformatics. 2013 Jan 28;29(6):815–6.  doi:[10.1093/BIOINFORMATICS/BTT036](https://doi.org/10.1093/BIOINFORMATICS/BTT036) ([Scholia](https://qlever.scholia.wiki/doi/10.1093/BIOINFORMATICS/BTT036))
-11. <a name="citeref11"></a> Zahn-Zabal M, Michel PA, Gateau A, Nikitin F, Schaeffer M, Audot E, et al. The neXtProt knowledgebase in 2020: data, tools and usability improvements. NAR. 2020 Jan 1;48(D1):D328–34.  doi:[10.1093/NAR/GKZ995](https://doi.org/10.1093/NAR/GKZ995) ([Scholia](https://qlever.scholia.wiki/doi/10.1093/NAR/GKZ995))
-12. <a name="citeref12"></a> Morgat A, Lombardot T, Coudert E, Axelsen K, Neto TB, Gehant S, et al. Enzyme annotation in UniProtKB using Rhea. Bioinformatics. 2020 Mar 1;36(6):1896–901.  doi:[10.1093/BIOINFORMATICS/BTZ817](https://doi.org/10.1093/BIOINFORMATICS/BTZ817) ([Scholia](https://qlever.scholia.wiki/doi/10.1093/BIOINFORMATICS/BTZ817))
-13. <a name="citeref13"></a> Vrandečić D, Pintscher L, Krötzsch M. Wikidata: The Making Of. In: WWW ’23 Companion: Companion Proceedings of the ACM Web Conference 2023 [Internet]. 2023. Available from: https://dl.acm.org/doi/10.1145/3543873.3585579 doi:[10.1145/3543873.3585579](https://doi.org/10.1145/3543873.3585579) ([Scholia](https://qlever.scholia.wiki/doi/10.1145/3543873.3585579))
-14. <a name="citeref14"></a> Waagmeester A, Summer-Kutmon M, Riutta A, Miller R, Willighagen E, Evelo CT, et al. Using the Semantic Web for Rapid Integration of WikiPathways with Other Biological Online Data Resources. PLoS Comput Biol. 2016 Jun;12(6):e1004989.  doi:[10.1371/JOURNAL.PCBI.1004989](https://doi.org/10.1371/JOURNAL.PCBI.1004989) ([Scholia](https://qlever.scholia.wiki/doi/10.1371/JOURNAL.PCBI.1004989))
-15. <a name="citeref15"></a> Miller RA, Woollard P, Willighagen EL, Digles D, Kutmon M, Loizou A, et al. Explicit interaction information from WikiPathways in RDF facilitates drug discovery in the Open PHACTS Discovery Platform. F1000Research. 2018 Oct 12;7:75.  doi:[10.12688/F1000RESEARCH.13197.2](https://doi.org/10.12688/F1000RESEARCH.13197.2) ([Scholia](https://qlever.scholia.wiki/doi/10.12688/F1000RESEARCH.13197.2))
-16. <a name="citeref16"></a> Ong E, Xiang Z, Zhao B, Liu Y, Lin Y, Zheng J, et al. Ontobee: A linked ontology data server to support ontology term dereferencing, linkage, query and integration. NAR. 2016 Oct 12;45(D1):gkw918.  doi:[10.1093/NAR/GKW918](https://doi.org/10.1093/NAR/GKW918) ([Scholia](https://qlever.scholia.wiki/doi/10.1093/NAR/GKW918))
-17. <a name="citeref17"></a> Balhoff JP, Bayindir U, Caron AR, Matentzoglu N, Osumi-Sutherland D, Mungall CJ. Ubergraph: integrating OBO ontologies into a unified semantic graph. Zenodo. 2022 Sep 28;  doi:[10.5281/ZENODO.7249759](https://doi.org/10.5281/ZENODO.7249759) ([Scholia](https://qlever.scholia.wiki/doi/10.5281/ZENODO.7249759))
-18. <a name="citeref18"></a> Bast H, Buchhold B. QLever: A Query Engine for Efficient SPARQL+Text Search. In: Proceedings of the 2017 ACM on Conference on Information and Knowledge Management [Internet]. 2017. p. 647–56. Available from: http://dx.doi.org/10.1145/3132847.3132921 doi:[10.1145/3132847.3132921](https://doi.org/10.1145/3132847.3132921) ([Scholia](https://qlever.scholia.wiki/doi/10.1145/3132847.3132921))
+11. <a name="citeref11"></a> Martinát D, Juračka J, Galgonek J, Berka K. MolMeDB RDF: transforming a relational database about biological membranes to the RDF format to increase interoperability. J Cheminform. 2026 Jun 2;18(1).  doi:[10.1186/S13321-026-01208-3](https://doi.org/10.1186/S13321-026-01208-3) ([Scholia](https://qlever.scholia.wiki/doi/10.1186/S13321-026-01208-3))
+12. <a name="citeref12"></a> Zahn-Zabal M, Michel PA, Gateau A, Nikitin F, Schaeffer M, Audot E, et al. The neXtProt knowledgebase in 2020: data, tools and usability improvements. NAR. 2020 Jan 1;48(D1):D328–34.  doi:[10.1093/NAR/GKZ995](https://doi.org/10.1093/NAR/GKZ995) ([Scholia](https://qlever.scholia.wiki/doi/10.1093/NAR/GKZ995))
+13. <a name="citeref13"></a> Morgat A, Lombardot T, Coudert E, Axelsen K, Neto TB, Gehant S, et al. Enzyme annotation in UniProtKB using Rhea. Bioinformatics. 2020 Mar 1;36(6):1896–901.  doi:[10.1093/BIOINFORMATICS/BTZ817](https://doi.org/10.1093/BIOINFORMATICS/BTZ817) ([Scholia](https://qlever.scholia.wiki/doi/10.1093/BIOINFORMATICS/BTZ817))
+14. <a name="citeref14"></a> Vrandečić D, Pintscher L, Krötzsch M. Wikidata: The Making Of. In: WWW ’23 Companion: Companion Proceedings of the ACM Web Conference 2023 [Internet]. 2023. Available from: https://dl.acm.org/doi/10.1145/3543873.3585579 doi:[10.1145/3543873.3585579](https://doi.org/10.1145/3543873.3585579) ([Scholia](https://qlever.scholia.wiki/doi/10.1145/3543873.3585579))
+15. <a name="citeref15"></a> Waagmeester A, Summer-Kutmon M, Riutta A, Miller R, Willighagen E, Evelo CT, et al. Using the Semantic Web for Rapid Integration of WikiPathways with Other Biological Online Data Resources. PLoS Comput Biol. 2016 Jun;12(6):e1004989.  doi:[10.1371/JOURNAL.PCBI.1004989](https://doi.org/10.1371/JOURNAL.PCBI.1004989) ([Scholia](https://qlever.scholia.wiki/doi/10.1371/JOURNAL.PCBI.1004989))
+16. <a name="citeref16"></a> Miller RA, Woollard P, Willighagen EL, Digles D, Kutmon M, Loizou A, et al. Explicit interaction information from WikiPathways in RDF facilitates drug discovery in the Open PHACTS Discovery Platform. F1000Research. 2018 Oct 12;7:75.  doi:[10.12688/F1000RESEARCH.13197.2](https://doi.org/10.12688/F1000RESEARCH.13197.2) ([Scholia](https://qlever.scholia.wiki/doi/10.12688/F1000RESEARCH.13197.2))
+17. <a name="citeref17"></a> Ong E, Xiang Z, Zhao B, Liu Y, Lin Y, Zheng J, et al. Ontobee: A linked ontology data server to support ontology term dereferencing, linkage, query and integration. NAR. 2016 Oct 12;45(D1):gkw918.  doi:[10.1093/NAR/GKW918](https://doi.org/10.1093/NAR/GKW918) ([Scholia](https://qlever.scholia.wiki/doi/10.1093/NAR/GKW918))
+18. <a name="citeref18"></a> Balhoff JP, Bayindir U, Caron AR, Matentzoglu N, Osumi-Sutherland D, Mungall CJ. Ubergraph: integrating OBO ontologies into a unified semantic graph. Zenodo. 2022 Sep 28;  doi:[10.5281/ZENODO.7249759](https://doi.org/10.5281/ZENODO.7249759) ([Scholia](https://qlever.scholia.wiki/doi/10.5281/ZENODO.7249759))
+19. <a name="citeref19"></a> Bast H, Buchhold B. QLever: A Query Engine for Efficient SPARQL+Text Search. In: Proceedings of the 2017 ACM on Conference on Information and Knowledge Management [Internet]. 2017. p. 647–56. Available from: http://dx.doi.org/10.1145/3132847.3132921 doi:[10.1145/3132847.3132921](https://doi.org/10.1145/3132847.3132921) ([Scholia](https://qlever.scholia.wiki/doi/10.1145/3132847.3132921))
 
