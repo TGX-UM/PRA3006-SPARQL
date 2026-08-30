@@ -1,0 +1,27 @@
+abstract: <p>Course material used for the MSP PRA3006 course in 2025.</p>
+authors:
+- affiliation: Maastricht University
+  family-names: Ammar
+  given-names: Ammar
+  orcid: 0000-0002-8399-8990
+- affiliation: Maastricht University
+  family-names: Martens
+  given-names: Marvin
+  orcid: 0000-0003-2230-0840
+- affiliation: Maastricht University
+  family-names: Willighagen
+  given-names: Egon
+  orcid: 0000-0001-7542-0286
+cff-version: 1.2.0
+date-released: '2026-08-30'
+doi: 10.5281/zenodo.22179835
+identifiers:
+- type: swh
+  value: swh:1:dir:212626a9e8c0ecab641099b755a1cb527b58c29c;origin=https://doi.org/10.5281/zenodo.22179834;visit=swh:1:snp:62b51ad60aea904c46d33b939dae2e6fe54dfd03;anchor=swh:1:rel:9c73ef260f78327bbd155a8ad89ec7942abc61a3;path=TGX-UM-PRA3006-SPARQL-8a8edd7
+license:
+- cc-by-4.0
+message: If you use this software, please cite it using the metadata from this file.
+repository-code: https://github.com/TGX-UM/PRA3006-SPARQL/tree/2025
+title: 'TGX-UM/PRA3006-SPARQL: PRA3006 2025'
+type: software
+version: '2025'
