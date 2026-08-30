@@ -33,6 +33,11 @@ There are also the following <topic>ontology</topic> SPARQL endpoints:
 * Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql) [<cite>Q27976541</cite>]
 * Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<cite>Q122382613</cite>]
 
+## Literature data
+
+* dblp.org: [https://sparql.dblp.org/](https://sparql.dblp.org/)
+* Wikidata (Qlever): [https://qlever.dev/api/wikidata](https://qlever.dev/api/wikidata) [<cite>Q108730896</cite>] (see also [this chapter](wikidata.i.md))
+  
 ## References
 
 <references/>
