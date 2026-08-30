@@ -2,6 +2,8 @@
 
 | **Website** | [https://www.wikidata.org/](https://www.wikidata.org/) |
 | **License** | [CCZero](https://creativecommons.org/public-domain/cc0/) |
+| **SPARQL endpoint** | [https://qlever.dev/api/wikidata](https://qlever.dev/api/wikidata) |
+| **SPARQL endpoint** | [https://query.wikidata.org/sparql](https://query.wikidata.org/sparql) |
 
 <topic>Wikidata</topic> is not a life sciences database, but a general database related to <topic>Wikipedia</topic> [<cite>Q118130164</cite>]. That said,
 various research groups have started using Wikidata for the life sciences [<cite>Q87830400</cite>,<cite>Q105037759</cite>]. For example, CAS registry
@@ -22,7 +24,7 @@ and more. The main classes are:
 
 ## Data model
 
-...
+The RDF data model is described [on this page](https://www.mediawiki.org/wiki/Wikibase/Indexing/RDF_Dump_Format).
 
 ## Example queries
 
