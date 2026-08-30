@@ -8,4 +8,6 @@ licenses for this repository.
 
 ## Authors
 
+* Ammar Ammar
+* Marvin Martens
 * Egon Willighagen
