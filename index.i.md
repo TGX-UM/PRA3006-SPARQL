@@ -11,7 +11,7 @@
   "name":"Using SPARQL to query Life Science Databases",
   "keywords":"cheminformatics, chemoinformatics, bioinformatics, databases, SPARQL",
   "license":"CC BY-SA 4.0",
-  "url": "https://bigcat-um.github.io/PRA3006-SPARQL/"
+  "url": "https://tgx-um.github.io/PRA3006-SPARQL/"
 }
 </script>
 
@@ -19,7 +19,7 @@
 Marvin Martens&nbsp;<a href="https://orcid.org/0000-0003-2230-0840"><img alt="ORCID icon" src="./images/orcid.png" height="20px">&nbsp;0000-0003-2230-0840</a>,
 Egon L. Willighagen&nbsp;<a href="https://orcid.org/0000-0001-7542-0286"><img alt="ORCID icon" src="./images/orcid.png" height="20px">&nbsp;0000-0001-7542-0286</a>**
 
-© 2021-2025 The Authors
+© 2021-2026 The Authors
 
 License: CC-BY-SA 4.0 International
 

@@ -4,6 +4,7 @@ entities
 generic
 aopwiki
 chembl
+pubchem
 uniprot
 wikidata
 wikipathways

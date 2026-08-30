@@ -10,7 +10,7 @@ biological pathway [wikidata](wikidata.i.md#tp3) [wikipathways](wikipathways.i.m
 biological process [wikipathways](wikipathways.i.md#tp2)<br />
 ChEMBL [chembl](chembl.i.md#tp1)<br />
 ChEMBL Core Ontology [chembl](chembl.i.md#tp2)<br />
-drug [chembl](chembl.i.md#tp4)<br />
+drug [chembl](chembl.i.md#tp4) [pubchem](pubchem.i.md#tp2)<br />
 gene [wikidata](wikidata.i.md#tp4) [wikipathways](wikipathways.i.md#tp4)<br />
 Key Eevent [aopwiki](aopwiki.i.md#tp4)<br />
 knowledge dissemination [intro](intro.i.md#tp1)<br />
@@ -20,6 +20,7 @@ ontology [list](list.i.md#tp3)<br />
 protein [chembl](chembl.i.md#tp3)<br />
 protein sequence [uniprot](uniprot.i.md#tp2)<br />
 protein [wikidata](wikidata.i.md#tp6) [wikidata](wikidata.i.md#tp8) [wikipathways](wikipathways.i.md#tp6) [wikipathways](wikipathways.i.md#tp8)<br />
+PubChem [pubchem](pubchem.i.md#tp1)<br />
 REST [intro](intro.i.md#tp4)<br />
 RNA [wikidata](wikidata.i.md#tp5) [wikipathways](wikipathways.i.md#tp5)<br />
 SPARQL endpoint [intro](intro.i.md#tp5) [list](list.i.md#tp1)<br />

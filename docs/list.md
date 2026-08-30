@@ -33,6 +33,11 @@ There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
 * Ontobee: [https://ontobee.org/sparql](https://ontobee.org/sparql) [<a href="#citeref16">16</a>]
 * Ubergraph: [https://github.com/INCATools/ubergraph](https://github.com/INCATools/ubergraph) [<a href="#citeref17">17</a>]
 
+## Literature data
+
+* dblp.org: [https://sparql.dblp.org/](https://sparql.dblp.org/)
+* Wikidata (Qlever): [https://qlever.dev/api/wikidata](https://qlever.dev/api/wikidata) [<a href="#citeref18">18</a>] (see also [this chapter](wikidata.md))
+  
 ## References
 
 1. <a name="citeref1"></a> Yamamoto Y, Yamaguchi A, Splendiani A. YummyData: providing high-quality open life science data. Database. 2018 Jan 1;2018.  doi:[10.1093/DATABASE/BAY022](https://doi.org/10.1093/DATABASE/BAY022) ([Scholia](https://scholia.toolforge.org/doi/10.1093/DATABASE/BAY022))
@@ -52,4 +57,5 @@ There are also the following <a name="tp3">ontology</a> SPARQL endpoints:
 15. <a name="citeref15"></a> Miller RA, Woollard P, Willighagen EL, Digles D, Kutmon M, Loizou A, et al. Explicit interaction information from WikiPathways in RDF facilitates drug discovery in the Open PHACTS Discovery Platform. F1000Research. 2018 Oct 12;7:75.  doi:[10.12688/F1000RESEARCH.13197.2](https://doi.org/10.12688/F1000RESEARCH.13197.2) ([Scholia](https://scholia.toolforge.org/doi/10.12688/F1000RESEARCH.13197.2))
 16. <a name="citeref16"></a> Ong E, Xiang Z, Zhao B, Liu Y, Lin Y, Zheng J, et al. Ontobee: A linked ontology data server to support ontology term dereferencing, linkage, query and integration. NAR. 2016 Oct 12;45(D1):gkw918.  doi:[10.1093/NAR/GKW918](https://doi.org/10.1093/NAR/GKW918) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKW918))
 17. <a name="citeref17"></a> Balhoff JP, Bayindir U, Caron AR, Matentzoglu N, Osumi-Sutherland D, Mungall CJ. Ubergraph: integrating OBO ontologies into a unified semantic graph. Zenodo. 2022 Sep 28;  doi:[10.5281/ZENODO.7249759](https://doi.org/10.5281/ZENODO.7249759) ([Scholia](https://scholia.toolforge.org/doi/10.5281/ZENODO.7249759))
+18. <a name="citeref18"></a> Bast H, Buchhold B. QLever: A Query Engine for Efficient SPARQL+Text Search. In: Proceedings of the 2017 ACM on Conference on Information and Knowledge Management [Internet]. 2017. p. 647–56. Available from: http://dx.doi.org/10.1145/3132847.3132921 doi:[10.1145/3132847.3132921](https://doi.org/10.1145/3132847.3132921) ([Scholia](https://scholia.toolforge.org/doi/10.1145/3132847.3132921))
 

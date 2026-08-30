@@ -11,7 +11,7 @@
   "name":"Using SPARQL to query Life Science Databases",
   "keywords":"cheminformatics, chemoinformatics, bioinformatics, databases, SPARQL",
   "license":"CC BY-SA 4.0",
-  "url": "https://bigcat-um.github.io/PRA3006-SPARQL/"
+  "url": "https://tgx-um.github.io/PRA3006-SPARQL/"
 }
 </script>
 
@@ -19,7 +19,7 @@
 Marvin Martens&nbsp;<a href="https://orcid.org/0000-0003-2230-0840"><img alt="ORCID icon" src="./images/orcid.png" height="20px">&nbsp;0000-0003-2230-0840</a>,
 Egon L. Willighagen&nbsp;<a href="https://orcid.org/0000-0001-7542-0286"><img alt="ORCID icon" src="./images/orcid.png" height="20px">&nbsp;0000-0001-7542-0286</a>**
 
-© 2021-2025 The Authors
+© 2021-2026 The Authors
 
 License: CC-BY-SA 4.0 International
 
@@ -37,6 +37,7 @@ Wishes, comments, and pull requests can be send to
 1.2. [This book](intro.md#this-book) <br />
 2. [List of Databases](list.md) <br />
 2.1. [Other useful resources](list.md#other-useful-resources) <br />
+2.2. [Literature data](list.md#literature-data) <br />
 3. [Biology](entities.md) <br />
 3.1. [Biological entities](entities.md#biological-entities) <br />
 3.1.1. [Genes](entities.md#genes) <br />
@@ -59,21 +60,24 @@ Wishes, comments, and pull requests can be send to
 6.3.2. [Counting assays](chembl.md#counting-assays) <br />
 6.3.3. [Binding affinities](chembl.md#binding-affinities) <br />
 6.3.4. [Assays and UniProt IDs](chembl.md#assays-and-uniprot-ids) <br />
-7. [UniProtKB](uniprot.md) <br />
-7.1. [Entities](uniprot.md#entities) <br />
-7.2. [Example queries](uniprot.md#example-queries) <br />
-8. [Wikidata](wikidata.md) <br />
-8.1. [Entities](wikidata.md#entities) <br />
-8.2. [Data model](wikidata.md#data-model) <br />
-8.3. [Example queries](wikidata.md#example-queries) <br />
-8.3.1. [Proteins](wikidata.md#proteins) <br />
-8.3.2. [Chemicals](wikidata.md#chemicals) <br />
-9. [WikiPathways](wikipathways.md) <br />
-9.1. [Entities](wikipathways.md#entities) <br />
-9.2. [Data model](wikipathways.md#data-model) <br />
-9.3. [Example queries](wikipathways.md#example-queries) <br />
-9.3.1. [Asking information for a specific pathway](wikipathways.md#asking-information-for-a-specific-pathway) <br />
-9.3.2. [A lipid pathway](wikipathways.md#a-lipid-pathway) <br />
-9.3.3. [A federated SPARQL query](wikipathways.md#a-federated-sparql-query) <br />
+7. [PubChem RDF](pubchem.md) <br />
+7.1. [Entities](pubchem.md#entities) <br />
+7.2. [Data model](pubchem.md#data-model) <br />
+8. [UniProtKB](uniprot.md) <br />
+8.1. [Entities](uniprot.md#entities) <br />
+8.2. [Example queries](uniprot.md#example-queries) <br />
+9. [Wikidata](wikidata.md) <br />
+9.1. [Entities](wikidata.md#entities) <br />
+9.2. [Data model](wikidata.md#data-model) <br />
+9.3. [Example queries](wikidata.md#example-queries) <br />
+9.3.1. [Proteins](wikidata.md#proteins) <br />
+9.3.2. [Chemicals](wikidata.md#chemicals) <br />
+10. [WikiPathways](wikipathways.md) <br />
+10.1. [Entities](wikipathways.md#entities) <br />
+10.2. [Data model](wikipathways.md#data-model) <br />
+10.3. [Example queries](wikipathways.md#example-queries) <br />
+10.3.1. [Asking information for a specific pathway](wikipathways.md#asking-information-for-a-specific-pathway) <br />
+10.3.2. [A lipid pathway](wikipathways.md#a-lipid-pathway) <br />
+10.3.3. [A federated SPARQL query](wikipathways.md#a-federated-sparql-query) <br />
 
 [Index](indexList.md) <br />
