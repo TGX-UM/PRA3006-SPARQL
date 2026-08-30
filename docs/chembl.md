@@ -202,6 +202,6 @@ The above query will get assay types, target and UniProt identifier for all the 
 
 ## References
 
-1. <a name="citeref1"></a>Bento AP, Gaulton A, Hersey A, Bellis L, Chambers J, Davies M, et al. The ChEMBL bioactivity database: an update. NAR. 2014 Jan;42(Database issue):D1083-90.  doi:[10.1093/NAR/GKT1031](https://doi.org/10.1093/NAR/GKT1031) ([Scholia](https://scholia.toolforge.org/doi/10.1093/NAR/GKT1031))
-2. <a name="citeref2"></a>Willighagen E, Waagmeester A, Spjuth O, Ansell P, Williams AJ, Tkachenko V, et al. The ChEMBL database as linked open data. J Cheminform. 2013;5(1):23.  doi:[10.1186/1758-2946-5-23](https://doi.org/10.1186/1758-2946-5-23) ([Scholia](https://scholia.toolforge.org/doi/10.1186/1758-2946-5-23))
+1. <a name="citeref1"></a> Bento AP, Gaulton A, Hersey A, Bellis L, Chambers J, Davies M, et al. The ChEMBL bioactivity database: an update. NAR. 2014 Jan;42(Database issue):D1083-90.  doi:[10.1093/NAR/GKT1031](https://doi.org/10.1093/NAR/GKT1031) ([Scholia](https://qlever.scholia.wiki/doi/10.1093/NAR/GKT1031))
+2. <a name="citeref2"></a> Willighagen E, Waagmeester A, Spjuth O, Ansell P, Williams AJ, Tkachenko V, et al. The ChEMBL database as linked open data. J Cheminform. 2013;5(1):23.  doi:[10.1186/1758-2946-5-23](https://doi.org/10.1186/1758-2946-5-23) ([Scholia](https://qlever.scholia.wiki/doi/10.1186/1758-2946-5-23))
 

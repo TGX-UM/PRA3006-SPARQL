@@ -81,11 +81,11 @@ Which returns:
     <td><b>nKE</b></td>
   </tr>
   <tr>
-    <td>1371</td>
+    <td>1561</td>
   </tr>
 </table>
 
 ## References
 
-1. <a name="citeref1"></a>Martens M, Evelo CT, Willighagen EL. Providing Adverse Outcome Pathways from the AOP-Wiki in a Semantic Web Format to Increase Usability and Accessibility of the Content. Applied In Vitro Toxicology. 2022 Feb 25;  doi:[10.1089/AIVT.2021.0010](https://doi.org/10.1089/AIVT.2021.0010) ([Scholia](https://scholia.toolforge.org/doi/10.1089/AIVT.2021.0010))
+1. <a name="citeref1"></a> Martens M, Evelo CT, Willighagen EL. Providing Adverse Outcome Pathways from the AOP-Wiki in a Semantic Web Format to Increase Usability and Accessibility of the Content. Applied In Vitro Toxicology. 2022 Feb 25;  doi:[10.1089/AIVT.2021.0010](https://doi.org/10.1089/AIVT.2021.0010) ([Scholia](https://qlever.scholia.wiki/doi/10.1089/AIVT.2021.0010))
 
